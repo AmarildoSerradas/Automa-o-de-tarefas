@@ -2,7 +2,7 @@
 echo ===== INICIANDO AUTOMACAO =====
 cd /d "C:\Users\TI LOCAL\Documents\projetoBckp\projetos"
 
-"C:\Users\TI LOCAL\Documents\projetoBckp\projetos\venv\Scripts\python.exe" "C:\Users\TI LOCAL\Documents\projetoBckp\projetos\AGLS.py" > log2.txt 2>&1
+"C:\Users\TI LOCAL\Documents\projetoBckp\projetos\venv\Scripts\python.exe" "C:\Users\TI LOCAL\Documents\projetoBckp\projetos\agenda com subgerente com paywright.py" > log2.txt 2>&1
 
 
 echo ===== SCRIPT FINALIZADO =====
